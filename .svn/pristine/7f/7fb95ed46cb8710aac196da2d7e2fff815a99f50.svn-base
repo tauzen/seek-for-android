@@ -1,0 +1,6 @@
+Section Device
+  Name "My Phone"
+  Address "12:34:56:78:9A:BC"
+  ID "42"
+  Slot "Mobile Security Card 00 00" # This is can be left out
+EndSection
